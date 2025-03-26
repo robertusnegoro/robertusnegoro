@@ -1,7 +1,7 @@
 # 💻 Robertus Negoro — @robertusnegoro  
 
 ## 👋 Hello!  
-I'm **Robertus Maria Suseno Eliasar Kusumaning Negoro**, a passionate **DevOps & Site Reliability Engineer (SRE)** with a strong focus on **cloud infrastructure, CI/CD pipelines, and automation**. I love building scalable, reliable systems and solving complex infrastructure challenges.
+I'm **Robertus Negoro**, a passionate **DevOps & Site Reliability Engineer (SRE)** with a strong focus on **cloud infrastructure, CI/CD pipelines, and automation**. I love building scalable, reliable systems and solving complex infrastructure challenges.
 
 ---
 
@@ -38,7 +38,7 @@ I'm **Robertus Maria Suseno Eliasar Kusumaning Negoro**, a passionate **DevOps &
 
 ## 🤝 **Let's Connect!**  
 - **GitHub:** [github.com/robertusnegoro](https://github.com/robertusnegoro)  
-- **LinkedIn:** [LinkedIn Profile] (https://www.linkedin.com/in/robinegoro/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/robinegoro/)
 - **Email:** [robertusnegoro@gmail.com](mailto:robertusnegoro@gmail.com)  
 
 ---
