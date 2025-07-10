@@ -1,4 +1,4 @@
-# 💻 Robertus Negoro — @robertusnegoro  
+# Robertus Negoro — @robertusnegoro  
 
 ## 👋 Hello!  
 I'm **Robertus Negoro**, a passionate **DevOps & Site Reliability Engineer (SRE)** with a strong focus on **cloud infrastructure, CI/CD pipelines, and automation**. I love building scalable, reliable systems and solving complex infrastructure challenges.
