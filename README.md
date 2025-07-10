@@ -5,7 +5,7 @@ I'm **Robertus Negoro**, a passionate **DevOps & Site Reliability Engineer (SRE)
 
 ---
 
-## 🚀 **What I Do**  
+## **What I Do**  
 - **Cloud Infrastructure:** Managing Kubernetes clusters, Kafka, and databases on **Google Cloud Platform (GCP)** and **AWS**.  
 - **CI/CD Pipelines:** Implementing seamless deployment processes using **GitHub Actions**, **ArgoCD**, and **Terraform**.  
 - **Infrastructure as Code (IaC):** Utilizing **Terraform**, **Ansible**, and **Kustomize** for consistent, reproducible environments.  
@@ -13,7 +13,7 @@ I'm **Robertus Negoro**, a passionate **DevOps & Site Reliability Engineer (SRE)
 
 ---
 
-## 🔧 **Skills & Tools**  
+## **Skills & Tools**  
 - **Programming Languages:** Python, Shell Scripting  
 - **Cloud Providers:** GCP, AWS  
 - **Automation:** Terraform, Ansible, Kustomize  
@@ -23,24 +23,24 @@ I'm **Robertus Negoro**, a passionate **DevOps & Site Reliability Engineer (SRE)
 
 ---
 
-## 📈 **Experience Highlights**  
+## **Experience Highlights**  
 - **Argyle Inc.:** SRE — Managing infrastructure on GCP, Kubernetes, and CI/CD pipelines.  
 - **Capital Group:** DevOps Senior Engineering Manager — Led a team of 4 engineers to optimize cloud infrastructure.  
 - **Bukalapak:** Engineering Manager — Oversaw deployment tooling and infrastructure automation.
 
 ---
 
-## 🌱 **Currently Exploring**  
+## **Currently Exploring**  
 - Advanced **Kubernetes** optimization techniques.  
 - **Cloud cost monitoring** with Prometheus metrics.  
 
 ---
 
-## 🤝 **Let's Connect!**  
+## **Let's Connect!**  
 - **GitHub:** [github.com/robertusnegoro](https://github.com/robertusnegoro)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/robinegoro/)
 - **Email:** [robertusnegoro@gmail.com](mailto:robertusnegoro@gmail.com)  
 
 ---
 
-### 🔍 *“Automating the mundane to focus on innovation.”*
+### *“Automating the mundane to focus on innovation.”*
